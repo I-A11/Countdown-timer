@@ -11,3 +11,5 @@ In this projct you can see the remaining time till new year 2022
 - Html
 - Css
 - JavaScript
+
+![Alt text](\\wsl$\Ubuntu-20.04\home\islam\js\js-traning\shopping-list\shopping list.PNG)
